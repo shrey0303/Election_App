@@ -1,7 +1,6 @@
-# VotingApp - Springboot, Thymeleaf
+#Election_App
 
 ### It is SpringBoot Project with Thymeleaf Frontend. Build in Spring Tool Suite.
-## It is a Voting Application. 
 
 ### Application Features:
 - User can vote the Candidate.
